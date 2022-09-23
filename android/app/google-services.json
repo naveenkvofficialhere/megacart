@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832891009330",
+    "project_id": "megacart-fb3f1",
+    "storage_bucket": "megacart-fb3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832891009330:android:a5cddab4ac714fd994ff2b",
+        "android_client_info": {
+          "package_name": "com.example.mega_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832891009330-b7klq8ffmud79p0vqq8pumb44v4r0e2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mega_cart",
+            "certificate_hash": "546c50c2557ed77d73757664dd78470de4b46828"
+          }
+        },
+        {
+          "client_id": "832891009330-pt9puhc5immn1p3q0prb2q58j6ukq9ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnlmsg57bYZyf8eh-gINjvRosbmV_VRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832891009330-pt9puhc5immn1p3q0prb2q58j6ukq9ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
